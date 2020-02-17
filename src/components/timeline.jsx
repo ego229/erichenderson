@@ -51,7 +51,7 @@ Competence sufficient to identify current and emerging information technologies 
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>General Assembly <span>2003-2015</span></h2>
+                        <h2>General Assembly <span>2019</span></h2>
                         <p>General Assembly empowered me to follow my dream of expanding knowledge in technology by teaching me toBuild rich, interactive, full-stack apps with key programming languages and dive into algorithms, data structures, design patterns, APIs, and more. I received hands-on with leading front-end web development and back-end web development languages: HTML, CSS, JavaScript, Python, Django,  React, Angular, and SQL. I was abel to learn the skills to discuss and use data structures and algorithms to solve real-world problems </p> 
                       </div>
                     </div>
